@@ -1,9 +1,9 @@
 import './App.css';
 import {Routes, Route, useNavigate} from "react-router-dom";
 import React from "react";
-import CardChecker from "./components/Screens/CardChecker";
-import CardComplete from "./components/Screens/CardComplete";
-import {useDispatch, useSelector} from "react-redux";
+import CardChecker from "./components/screens/CardChecker";
+import CardComplete from "./components/screens/CardComplete";
+import {useDispatch} from "react-redux";
 import {fetchCard} from "./store/action";
 
 
