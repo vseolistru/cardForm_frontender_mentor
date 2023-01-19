@@ -63,10 +63,10 @@
         opacity: 1;
     }
     .card__form_date_expired input {
-        max-width: 13%;
+        max-width: 10%;
     }
     .card__form_date_expired i input {
-        max-width: 32%;
+        max-width: 31%;
 
     }
     .card__form_date_expired button {
